@@ -4,6 +4,8 @@ Wobble Otter is a fixed-supply demonstration token on BNB Smart Chain. It has 1,
 
 The community wallet seeded a WOTR/WBNB pool on PancakeSwap V2. A small independent-wallet buy has been completed on mainnet. Cross-chain features are under development and are not live for WOTR.
 
+Project contact for this demonstration: [rick@tevumi.com](mailto:rick@tevumi.com). This public information page is maintained through the Tevumi GitHub account; the token supply and pool liquidity are controlled by the separate community wallet.
+
 | Item | BNB Smart Chain address |
 | --- | --- |
 | WOTR token | [`0xB97b99cB6DC0EdBB89512e14100B2e9C23132eE5`](https://bscscan.com/token/0xB97b99cB6DC0EdBB89512e14100B2e9C23132eE5) |
